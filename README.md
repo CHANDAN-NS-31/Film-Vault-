@@ -2,9 +2,6 @@
 
 An IMDb-like movie web app built using React, TMDB API, and Tailwind CSS. Users can browse trending movies, add or remove them from their watchlist, and filter them by genre, popularity, or rating.
 
-[![Netlify Status](https://preeminent-klepon-b4b332.netlify.app)
-[![React](https://reactjs.org/)
-
 
 ## 🚀 Live Demo
 
