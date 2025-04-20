@@ -13,7 +13,11 @@ An IMDb-like movie web app built using React, TMDB API, and Tailwind CSS. Users 
 
 ## 📸 Demo
 
-![App Screenshot](https://your-screenshot-link-here.png)
+![App Screenshot1](https://github.com/CHANDAN-NS-31/Film-Vault-/blob/main/Page1_1.png)
+![App Screenshot2](https://github.com/CHANDAN-NS-31/Film-Vault-/blob/main/Page1_2.png)
+![App Screenshot1](https://github.com/CHANDAN-NS-31/Film-Vault-/blob/main/Page2.png)))
+
+
 
 > sets` folder.
 
