@@ -1,44 +1,48 @@
-# 🎬 IMDb Clone - React Movie Web App
+# 🎬 IMDb Clone - Movie Web App
 
-A sleek and responsive IMDb-style movie browsing web app built with **React**, **Tailwind CSS**, and the **TMDB API**. Users can explore trending movies, manage their watchlist, filter by genre, search, and sort movies by rating and popularity.
+An IMDb-like movie web app built using React, TMDB API, and Tailwind CSS. Users can browse trending movies, add or remove them from their watchlist, and filter them by genre, popularity, or rating.
 
-## 🔥 Features
+[![Netlify Status](https://preeminent-klepon-b4b332.netlify.app)
+[![React](https://reactjs.org/)
 
-- 🔍 Search movies by name
-- 🎞️ View trending movies from TMDB API
-- 🎯 Filter by genre
-- ⭐ Sort by IMDb rating or popularity
-- ➕ Add/remove movies to/from your Watchlist (stored in `localStorage`)
-- 📱 Fully responsive design
 
----
+## 🚀 Live Demo
 
-## 🚀 Tech Stack
+🔗 [Click here to view the deployed app](https://preeminent-klepon-b4b332.netlify.app)  
+🔐 **Password to access:** `My-Drop-Site` (valid for 1 hour)
 
-- ⚛️ React
-- 💨 Tailwind CSS
-- 🎥 TMDB API
-- 🔄 React Router
-- 📦 localStorage
+## 📸 Demo
+
+![App Screenshot](https://your-screenshot-link-here.png)
+
+> sets` folder.
 
 ---
 
-## 🧠 How It Works
+## ✨ Features
 
-### 1. Fetch Movies
-Uses `axios` to call [TMDB API](https://www.themoviedb.org/documentation/api) and fetch trending movies.
-
-### 2. Movie Card Component
-Displays movie poster, name, rating, and an option to add/remove from watchlist.
-
-### 3. Watchlist Page
-Stores selected movies in `localStorage` so they persist even after refreshing.
+- 🎥 Trending movies from TMDB API
+- 📁 Watchlist with add/remove functionality (stored in `localStorage`)
+- 🔍 Search movies by title
+- 📊 Sort by rating or popularity
+- 🎭 Filter by genre
+- 🚀 Responsive UI with Tailwind CSS
+- 🔁 Pagination
 
 ---
 
-## 🛠️ Getting Started
+## 🛠️ Tech Stack
 
-Clone the repo and install dependencies:
+- **React**
+- **React Router**
+- **TMDB API**
+- **Tailwind CSS**
+- **Vite**
+- **LocalStorage**
+
+---
+
+## 📦 Installation
 
 ```bash
 git clone https://github.com/your-username/imdb-clone.git
